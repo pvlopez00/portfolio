@@ -6,7 +6,7 @@
 DevOps & Infrastructure Engineer passionate about Infrastructure as Code, Kubernetes, automation, and cloud-native technologies. I enjoy designing reliable platforms, automating deployments, and building production-ready infrastructure while maintaining a strong backend development background with Django and Node.js.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.com/invite/yoadev0105_36222) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yoancarlos) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@yoadev010557101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yclicourt@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.com/invite/pvlopez000105_36222) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pvlopez00) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pvlopez00010557101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pvlopez00@gmail.com) 
 
 ## 💻 Tech Stack
 
@@ -69,7 +69,7 @@ A modular Infrastructure as Code project deploying a full-stack application usin
 ✅ Network isolation  
 ✅ Environment-based configuration  
 
-🔗 [Repository](https://github.com/yclicourt/terraform-modules-task-app-fullstack)
+🔗 [Repository](https://github.com/pvlopez00/terraform-modules-task-app-fullstack)
 
 </td>
 
@@ -89,7 +89,7 @@ Production-like Kubernetes infrastructure deployed using Terraform.
 ✅ Kubernetes Services  
 ✅ Ingress routing  
 
-🔗 [Repository](https://github.com/yclicourt/terraform-modules-kubernetes-tasks-app-fullstack)
+🔗 [Repository](https://github.com/pvlopez00/terraform-modules-kubernetes-tasks-app-fullstack)
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ GitOps workflow implementing declarative Kubernetes deployments.
 ✅ Kubernetes application synchronization  
 ✅ Continuous delivery workflow  
 
-🔗 [Repository](https://github.com/yclicourt/deploy-gitOps-app)
+🔗 [Repository](https://github.com/pvlopez00/deploy-gitOps-app)
 
 </td>
 
@@ -174,16 +174,16 @@ Experienced in designing, automating, and managing modern infrastructure platfor
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yclicourt&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pvlopez00&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yclicourt&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvlopez00&layout=compact&theme=transparent&hide_border=true" height="170"/>
 
 </div>
 
 ## 📈 GitHub Activity
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yclicourt&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pvlopez00&theme=github-compact&hide_border=true"/>
 
 </div>
 
