@@ -1,4 +1,5 @@
-<img width="2172" height="724" alt="hero_profile" src="https://github.com/user-attachments/assets/abb2a3a4-cbcf-461f-a071-7da416f887f7" />
+<img width="1600" height="532" alt="image" src="https://github.com/user-attachments/assets/14272697-106d-47e4-9ea1-4ff239fe452d" />
+
 
 
 # 💫 About Me:
